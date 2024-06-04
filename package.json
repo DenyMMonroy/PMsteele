@@ -6,6 +6,13 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [
+    "MVC",
+    "Express",
+    "SQLserver",
+    "Javascript"
+
+  ],
   "author": "Denisse Muñoz Monroy",
   "license": "ISC"
 }
