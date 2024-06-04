@@ -1,0 +1,11 @@
+{
+  "name": "ppmsteele",
+  "version": "1.0.0",
+  "description": "Sistema para PMsteele para el monitero en tiempo real de las maquinas industriales y el tiempo en los operadores ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denisse Muñoz Monroy",
+  "license": "ISC"
+}
